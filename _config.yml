@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  picofrns.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Rudra Narayan Sahoo"
-  avatar           : "profile.png"
+  avatar           : "picofrns.png"
   bio              : " Junior Research Fellow (JRF) in Dr. Senjuti Sinharoy's Lab at National Institute of Plant Genome Research (NIPGR) "
   location         : "New Delhi, India"
   employer         :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rnsahoo96"
   google_plus      :
   keybase          :
   instagram        :
