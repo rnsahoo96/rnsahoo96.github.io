@@ -14,6 +14,6 @@ Welcome! **I am a Junior Research Fellow (JRF) at the [National Institute of Pla
 
 **I am eager to pursue a fully funded Ph.D. in plant-microbe interaction and its ecophysiology.** My interest in this field has been shaped by my experience in Plant stress physiology and Molecular Biology, Ethnobotany and Ethnopharmacology, Natural Resource Management, and Root stress physiology. **I am fascinated by the hidden half of the plant, 'the root,’ its ecophysiology, and beneficial interactions with microbes. I believe that exploring this relationship could pave the way for a second green revolution, establishing food security and sustainable agricultural practices with less or no dependence on synthetic fertilizers and pesticides.**
 
-During my free time, I enjoy cooking, cycling, reading, running, web series, travelling, and volunteering.   
+During my free time, I enjoy cooking, cycling, reading, running, travelling, and volunteering.   
 
 
