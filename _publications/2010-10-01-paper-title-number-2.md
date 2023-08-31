@@ -7,7 +7,7 @@ are increasingly at risk of extinction. Their associations with faith and religi
 and scriptures. Our ancestors linked divinity with several plants for their conservation and categorized them as sacred plants because of their miraculous medicinal properties. This situation reflects that though the knowledge of the medicinal value of the plants has vanished, it is still practiced in their religious culture. The study attempts to analyze both the religious and medicinal aspects of 21 plants on the basis of their analogous use across the subcontinent with respect to religions and shared beliefs which got incorporated in our culture because of their diverse benefits, making a divine way for the protection of nature and culture. This study shall stress the importance of ethnobotany and help in the constitution of realistic conservation strategies aiding sustainable development. The enlisted medicinal plants reveal ancient practices that have been scientifically accurate in terms of health and holistic lifestyle, promoting the sustainable use of plants for the betterment of the environment.'
 date: 2022-03-25
 venue: 'Journal of Drug Research in Ayurvedic Sciences'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: '/files/ethnobotany-review.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
