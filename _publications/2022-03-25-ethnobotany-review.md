@@ -9,7 +9,7 @@ date: 2022-03-25
 venue: 'Journal of Drug Research in Ayurvedic Sciences'
 paperurl: '/files/ethnobotany-review.pdf'
 link: 'http://www.jdrasccras.com/article.asp?issn=2279-0357;year=2021;volume=6;issue=3;spage=128;epage=140;aulast=Sahoo'
-citation: 'Sahoo RN., Kumar S., Suryavanshi A., Kain D., Arya A., Chaudhry B. Venerated and medicinal aspects of plants used in India: An ethnobotanical review. J Drug Res Ayurvedic Sci 2021;6:128-40. DOI: 10.4103/jdras.jdras_15_21'
+citation: 'Sahoo, RN., Kumar, S., Suryavanshi, A., Kain, D., Arya, A., Chaudhry, B. Venerated and medicinal aspects of plants used in India: An ethnobotanical review. J Drug Res Ayurvedic Sci 2021;6:128-40. DOI: 10.4103/jdras.jdras_15_21'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
