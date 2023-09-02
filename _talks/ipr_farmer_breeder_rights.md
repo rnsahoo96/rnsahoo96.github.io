@@ -8,6 +8,7 @@ date: 2021-09-24
 location: "New Delhi, India"
 ---
 
+
 Legislation concerning crop plants are among the most inconvenient region. The standards of Intellectual Property Rights specify that an intention can 
 be secured as one IP. With the plants, the circumstance is muddled by genuinely covering sorts of IP: regular patents and Plant Breeders Right without 
 compromising the privileges of Farmers. That particular arrangement for Intellectual Property assurance of new plant assortments presented in the TRIPS 
