@@ -2,7 +2,7 @@
 title: The Marine Arctic Peace Sanctuary(MAPS)
 collection: talks
 type: "Weekly Academic Lecture"
-permalink: 'https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf'
+permalink: /talks/SOAWAL_CE_29_1
 venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academic Lecture (SOAWAL)"
 date: 2022-02-22
 location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India"
@@ -23,3 +23,4 @@ response. Through evocative visuals, this presentation tells the story of the or
 peaceful Arctic Ocean and a healthy planet, and our human capacity to change. The audience is encouraged to
 engage through questions, reflection, and a strong call to action to protect the Arctic Ocean as our shared
 heritage.
+[View Poster](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
