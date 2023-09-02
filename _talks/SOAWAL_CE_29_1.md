@@ -5,8 +5,7 @@ type: "Weekly Academic Lecture"
 permalink: /talks/SOAWAL_CE_29_1
 venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academic Lecture (SOAWAL)"
 date: 2022-02-22
-location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India"
-[[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
+location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India" [[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
 ---
 7.8 billion people and 8.7 million species need a peaceful, healthy world—one where we can
 live in safety and access the food and resources we need to survive. But all of that depends on the Arctic Ocean.
