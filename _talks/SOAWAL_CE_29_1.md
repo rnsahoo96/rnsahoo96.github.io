@@ -2,7 +2,7 @@
 title: "The Marine Arctic Peace Sanctuary(MAPS)"
 collection: talks
 type: "Weekly Academic Lecture"
-permalink: <a href="https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf">pdf</a>
+permalink: <a href="rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf">view</a>
 venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academic Lecture (SOAWAL)"
 date: 2022-02-22
 location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India"
