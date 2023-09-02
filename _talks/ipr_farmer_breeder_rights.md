@@ -1,5 +1,5 @@
 ---
-title: "Protection of Farmer’s and Breeder’s Rights through IPR"
+title: Protection of Farmer’s and Breeder’s Rights through IPR
 collection: talks
 type: "National Webinar on “Intellectual Property Rights: Issues and Challenges”"
 permalink: /talks/ipr_farmer_breeder_rights
