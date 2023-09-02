@@ -4,6 +4,7 @@ collection: talks
 type: "Weekly Academic Lecture"
 permalink: /talks/SOAWAL_CE_29_1
 venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academic Lecture (SOAWAL)"
+link: 
 date: 2022-02-22
 location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India"
 ---
