@@ -8,7 +8,7 @@ venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academ
 date: 2022-02-22
 location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India" 
 ---
-
+[[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
 
 
 
