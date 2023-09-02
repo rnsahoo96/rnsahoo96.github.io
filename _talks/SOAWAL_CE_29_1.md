@@ -1,5 +1,5 @@
 ---
-title: "The Marine Arctic Peace Sanctuary(MAPS)"
+title: The Marine Arctic Peace Sanctuary(MAPS)
 collection: talks
 type: "Weekly Academic Lecture"
 venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academic Lecture (SOAWAL)"
