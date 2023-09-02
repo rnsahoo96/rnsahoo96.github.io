@@ -23,5 +23,4 @@ response. Through evocative visuals, this presentation tells the story of the or
 peaceful Arctic Ocean and a healthy planet, and our human capacity to change. The audience is encouraged to
 engage through questions, reflection, and a strong call to action to protect the Arctic Ocean as our shared
 heritage.
-
 [[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
