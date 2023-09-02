@@ -3,7 +3,7 @@ title: "Protection of Farmer’s and Breeder’s Rights through IPR"
 collection: talks
 type: "National Webinar on “Intellectual Property Rights: Issues and Challenges”"
 permalink: /talks/ipr_farmer_breeder_rights
-excerpt: 'Legislation concerning crop plants are among the most inconvenient region. The standards of Intellectual Property Rights specify that an intention can 
+excerpt:  'Legislation concerning crop plants are among the most inconvenient region. The standards of Intellectual Property Rights specify that an intention can 
 be secured as one IP. With the plants, the circumstance is muddled by genuinely covering sorts of IP: regular patents and Plant Breeders Right without 
 compromising the privileges of Farmers. That particular arrangement for Intellectual Property assurance of new plant assortments presented in the TRIPS 
 understanding made it required of the individuals from WTO to define legitimate measures either as licenses or a viable sui generis framework or blend 
