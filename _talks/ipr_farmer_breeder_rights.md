@@ -3,7 +3,12 @@ title: "Protection of Farmer’s and Breeder’s Rights through IPR"
 collection: talks
 type: "National Webinar on “Intellectual Property Rights: Issues and Challenges”"
 permalink: /talks/ipr_farmer_breeder_rights
-excerpt:  'Legislation concerning crop plants are among the most inconvenient region. The standards of Intellectual Property Rights specify that an intention can 
+venue: "Department of Botany, Deen Dayal Upadhyaya College, University of Delhi"
+date: 2021-09-24
+location: "New Delhi, India"
+---
+
+Legislation concerning crop plants are among the most inconvenient region. The standards of Intellectual Property Rights specify that an intention can 
 be secured as one IP. With the plants, the circumstance is muddled by genuinely covering sorts of IP: regular patents and Plant Breeders Right without 
 compromising the privileges of Farmers. That particular arrangement for Intellectual Property assurance of new plant assortments presented in the TRIPS 
 understanding made it required of the individuals from WTO to define legitimate measures either as licenses or a viable sui generis framework or blend 
@@ -16,11 +21,5 @@ development investments in public and private plant breeding through the tests f
 cultivation conditions. The PPVFR Authority, however, takes public awareness system of plant variety protection by providing information on the website, 
 publication and distribution of information, organizing national seminars and maintenance of electronic databases containing national variety register. 
 The registration shall be valid for nine years for trees and vines and six years for other crops which may be renewed for eighteen years for trees and 
-vines and fifteen years for others from the date of registration.'
-venue: "Department of Botany, Deen Dayal Upadhyaya College, University of Delhi"
-date: 2021-09-24
-location: "New Delhi, India"
----
-
-
+vines and fifteen years for others from the date of registration.
 
