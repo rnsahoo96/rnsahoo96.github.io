@@ -7,6 +7,8 @@ venue: "Department of Civil Engineering, Siksha ‘O’ Anusandhan Weekly Academ
 date: 2022-02-22
 location: "Siksha ‘O’ Anusandhan University, Bhubaneswar, Odisha, India" 
 ---
+[[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
+
 7.8 billion people and 8.7 million species need a peaceful, healthy world—one where we can
 live in safety and access the food and resources we need to survive. But all of that depends on the Arctic Ocean.
 For millions of years, the Arctic Ocean has been our planet’s air conditioning system. It regulates the atmospheric
@@ -23,4 +25,4 @@ response. Through evocative visuals, this presentation tells the story of the or
 peaceful Arctic Ocean and a healthy planet, and our human capacity to change. The audience is encouraged to
 engage through questions, reflection, and a strong call to action to protect the Arctic Ocean as our shared
 heritage.
-[[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
+
