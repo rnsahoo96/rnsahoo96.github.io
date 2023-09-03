@@ -1,6 +1,5 @@
 ---
-title: The Marine Arctic Peace Sanctuary(MAPS)       
-[[View Poster]](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
+title: The Marine Arctic Peace Sanctuary(MAPS) [📄](https://rnsahoo96.github.io/files/SOAWAL_CE_29_1.pdf)
 collection: talks
 type: "Weekly Academic Lecture"
 permalink: /talks/SOAWAL_CE_29_1
