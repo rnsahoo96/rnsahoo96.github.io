@@ -4,7 +4,7 @@ collection: teaching
 type: "Secondary School Level (Class 9)"
 permalink: /teaching/2021_AXF_teaching
 venue: "Malad branch, Angel Express Foundation"
-date: 2021- Present
+date: 2021-02-4
 location: "Mumbai, Maharashtra, India"
 ---
 
