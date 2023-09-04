@@ -8,5 +8,5 @@ date: 2021-02-01
 location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teach For India is a part of the Teach For All Network, a growing group of independent organisations working on 
 
