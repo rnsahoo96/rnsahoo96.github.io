@@ -2,7 +2,7 @@
 title: "Teaching Volunteer"
 collection: teaching
 type: "Seconday Level (Class 9)"
-permalink: /teaching/2022_AXF
+permalink: /teaching/AXF
 venue: "Malad branch, Angel Express Foundation"
 date: 2021-06-15
 location: "Mumbai, Maharashtra, India"
