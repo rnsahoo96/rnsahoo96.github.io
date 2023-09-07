@@ -1,5 +1,5 @@
 ---
-title: "Tesching Volunteer "
+title: "Teaching Volunteer "
 collection: teaching
 type: "Upper Primary Level (Class 5)"
 permalink: /teaching/TFI
