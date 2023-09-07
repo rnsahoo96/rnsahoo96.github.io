@@ -2,7 +2,7 @@
 title: "Teaching Volunteer "
 collection: teaching
 type: "Upper Primary Level (Class 5)"
-permalink: /teaching/up_tv_TFI
+permalink: /teaching/TFI
 venue: "Teach For India"
 date: 2021-02-01
 location: "New Delhi, India"
