@@ -6,4 +6,4 @@ collection: Research projects
 
 ## Publication
 Arya, A., Kumar, S., Paul, R., Suryavanshi, A., Kain, D., and Sahoo, RN. Ethnopharmacological survey of indigenous medicinal plants of Palampur, Himachal Pradesh in north-western Himalaya, India. ADV TRADIT MED (ADTM) 23, 169–212 (2023). https://doi.org/10.1007/s13596-021-00607-1'  
-[View PDF] (https://rnsahoo96.github.io/files/ethnopharmacology-palampur.pdf){: .btn--research}
+[View PDF] (https://rnsahoo96.github.io/files/ethnopharmacology-palampur.pdf){: .btn--research_project}
