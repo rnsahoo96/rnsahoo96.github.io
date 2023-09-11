@@ -1,6 +1,6 @@
 ---
 title: "Ecological modelling of Species in Western Ghats, India"
-excerpt: "The Western Ghats have been identified as a worldwide hotspot for biodiversity, boasting a diverse range of species, many of which are exclusive to the area. This study investigates the impact of climate change on the distribution of species across three Shared Socioeconomic Pathways (SSP): ssp126 (optimistic), ssp370 (moderate), and ssp585 (pessimistic). This emphasizes the significance of prioritizing conservation efforts, particularly in agricultural landscapes, to guarantee the protection of both food security and biodiversity.<br/><img src='/images/500x300.png'>" 
+excerpt: "The Western Ghats have been identified as a worldwide hotspot for biodiversity, boasting a diverse range of species, many of which are exclusive to the area. This study investigates the impact of climate change on the distribution of species across three Shared Socioeconomic Pathways (SSP): ssp126 (optimistic), ssp370 (moderate), and ssp585 (pessimistic). This emphasizes the significance of prioritizing conservation efforts, particularly in agricultural landscapes, to guarantee the protection of both food security and biodiversity.<br/><img src='/images/western_ghats.png'>" 
 collection: Research projects
 ---
 
