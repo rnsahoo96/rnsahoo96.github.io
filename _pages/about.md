@@ -12,8 +12,6 @@ Welcome! I am a Junior Research Fellow (JRF) at the [National Institute of Plant
 
 I hold a Master of Science (M.Sc.) degree in Botany from [Jamia Hamdard, New Delhi](https://jamiahamdard.edu/), where I worked to delineate the potential of root phenotypic and physiological attributes of wheat genotypes under stress conditions as a postgraduate dissertation student, advised by Dr. M. Iqbal R. Khan. Additionally, I have a Postgraduate Diploma in Intellectual Property Rights (PGDIPR) from [Indira Gandhi National Open University (IGNOU), New Delhi](http://www.ignou.ac.in/), and a Bachelor of Science (B.Sc.) in Life Science at [Ramjas College, University of Delhi](https://ramjas.du.ac.in/college/web/index.php).
 
-**I am eager to pursue a fully funded Ph.D. in Plant-Microbe Interaction and its Ecophysiology.** My interest in this field has been shaped by my experience in Plant Stress Physiology and Molecular Biology, Ethnobotany and Ethnopharmacology, Natural Resource Management, and Root Stress Physiology. **I am fascinated by the hidden half of the plant,'the root', its eco-physiology, and interactions with microbes.** I believe that exploring this relationship could pave the way for a second green revolution, establishing food security and sustainable agricultural practices with less or no dependence on synthetic fertilizers and pesticides.
-
 During my free time, I enjoy cooking, cycling, reading, running, travelling, and volunteering.   
 
 
